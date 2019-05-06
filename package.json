@@ -1,5 +1,5 @@
 {
-    "name": "vue-paginator",
+    "name": "vue-paginator3k",
     "version": "1.0.0",
     "description": "Paginator logic with simple implementation for Vue apps",
     "main": "./dist/library.js",
